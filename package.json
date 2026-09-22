@@ -1,0 +1,10 @@
+{
+  "name": "@superinstance/three-forms-of-forgetting",
+  "version": "0.1.0",
+  "description": "Three canonical forms of forgetting for the substrate: bundle, traversal, evidence.",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "keywords": ["forgetting", "substrate", "jev-quilt", "doctrine", "canon"],
+  "author": "SuperInstance",
+  "license": "MIT"
+}
